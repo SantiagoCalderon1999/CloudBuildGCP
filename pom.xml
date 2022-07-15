@@ -15,7 +15,6 @@
     <description>CloudBuild</description>
     <properties>
         <java.version>11</java.version>
-        <swagger.version>2.9.1</swagger.version>
     </properties>
     <dependencies>
         <!-- Spring dependencies -->
